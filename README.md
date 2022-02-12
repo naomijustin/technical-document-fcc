@@ -16,7 +16,7 @@ In the process, instead of focusing on the content, I wanted to instead focus on
 ## Process
 - I created a mock up in Figma for how I wanted the document to be created as a base on where to start. I also wanted to include a scroll spy, being a sticking position and to allow the user to scroll to different areas in the technical document. 
 
-<img src="" alt="Technical Document Mock Up created by Naomi Justin in Figma">
+<img src="https://raw.githubusercontent.com/naomijustin/technical-document-fcc/main/images/Technical%20Document.png" alt="Technical Document Mock Up created by Naomi Justin in Figma">
 
 ## Technologies
 - Figma for the mock up
