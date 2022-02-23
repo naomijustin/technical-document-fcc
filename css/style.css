@@ -13,9 +13,21 @@ main {
     max-width: 1400px;
     margin: 0 auto;
 }
-#titleLarge {
+
+.titleLg {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #353535;
     font-size: 80px;
+}
+
+.subTitleMd {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #939393;
+    font-size: 25px;
+}
+
+.cardContainer {
+    
 }
