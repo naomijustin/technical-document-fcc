@@ -1,8 +1,8 @@
+
 #wrapPageContent {
     margin: 0 auto;
 }
-header { 
-    
+header {     
     max-width: 1600px;   
     margin: 0 auto;    
     font-family: 'Poppins', sans-serif;
@@ -14,6 +14,7 @@ main {
     margin: 0 auto;
 }
 
+/* Title Section */
 .titleLg {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -28,6 +29,12 @@ main {
     font-size: 25px;
 }
 
+/* Scroll Spy*/
+
 .cardContainer {
-    
+
+}
+
+#wrapScrollSpy {
+    position: relative;
 }
