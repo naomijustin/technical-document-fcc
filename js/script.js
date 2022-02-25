@@ -1,4 +1,5 @@
-$(document).ready(function(){
-    $('#wrapScrollSpy').scrollspy({ target: '#sideNavScrollSpy' })
-
+$(document).ready(function(){   
+    var scrollSpy = new bootstrap.ScrollSpy(document.body, {
+        target: '#sideNavScrollSpy'
+      })
 });
