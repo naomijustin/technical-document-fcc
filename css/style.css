@@ -30,11 +30,10 @@ main {
 }
 
 /* Scroll Spy*/
-
-.cardContainer {
-
-}
-
 #wrapScrollSpy {
     position: relative;
 }
+/* .cardContainer {
+
+} */
+
